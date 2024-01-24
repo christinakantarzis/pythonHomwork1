@@ -8,3 +8,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
+print("Hello World")
+5*8
+
+
